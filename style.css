@@ -111,3 +111,40 @@
 .img-size-con-2-1{
     padding:7rem 4rem 4rem 16rem;
 }
+.img-size-con-3-1{
+    padding: 3rem 6rem 1rem 4rem;
+}
+.img-size-con-4-1{
+    padding: 6rem 1rem 2rem 10rem;
+}
+.p-s-7{
+    padding-left: 7rem;
+    padding-top: 3rem;
+}
+.m-10-10{
+    margin:10rem 0rem 10rem 0rem;
+}
+.bg-grey{
+    background-color: #262626;
+}
+
+    /* Add a border to all accordion buttons */
+    .ab {
+        border: 8px solid #000; /* You can customize the border style, width, and color */
+    }
+    /* Add hover effect to elements with the .ab class */
+.Hover:hover button {
+    /* Add your hover styles here */
+    background-color:#525252; /* Change to your desired hover background color */
+    /* You can also add other styles for the hover state, such as text color or border */
+}
+.accordion-button::after{
+    background-image: url(images/plus.png);
+    background-color: transparent;
+}
+.m-last-0-0{
+    margin: 4rem 0rem 0rem 5rem;
+}
+.p-last-0-0{
+    padding:1rem 10rem 1rem 10rem;
+}
